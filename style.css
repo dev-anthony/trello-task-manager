@@ -140,17 +140,18 @@ h2{
    
 }
 #todo .task{
-    background-color: red;
+    background-color: #2196F3;
     color: white;
 }
 #todo .task .delete-task{
     color: #ccc;
 }
 #in-progress .task{
-    background-color: yellow;
+    background-color: #FF6E00;
+    color: white;
 }
 #done .task{
-    background-color: green;
+    background-color: #1BAB42;
     color: #fff;
 }
 .edit{
