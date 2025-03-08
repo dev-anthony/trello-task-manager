@@ -98,7 +98,7 @@ h2{
 }
 .delete-task{
     background: none;
-    color: red;
+    color: #ccc;
     border:none;
     display:block;
     font-size: 14px;
